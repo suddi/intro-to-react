@@ -1,3 +1,8 @@
+.gp-logo div {
+	top: 2px;
+	left: 2px;
+}
+
 .reveal section img {
 	background: transparent;
 	border: 0;
