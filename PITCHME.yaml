@@ -2,7 +2,7 @@ theme: moon
 # background: assets/bg.jpg
 # background-size: cover
 
-logo: assets/img/logo.png
+# logo: assets/img/logo.png
 
 highlight: monokai
 
