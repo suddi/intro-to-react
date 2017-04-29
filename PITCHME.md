@@ -1,4 +1,4 @@
----?include=md/topics/cover/PITCHME.md
----?include=md/topics/poll/PITCHME.md
----?include=md/topics/introduction/PITCHME.md
----?include=md/topics/current-state/PITCHME.md
+---?include=topics/cover/PITCHME.md
+---?include=topics/poll/PITCHME.md
+---?include=topics/introduction/PITCHME.md
+---?include=topics/current-state/PITCHME.md
