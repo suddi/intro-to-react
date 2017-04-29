@@ -1,0 +1,6 @@
+theme: moon
+footnote: "© 2017 Sudharshan Ravindran"
+mousewheel: true
+slide-number: true
+transition: zoom
+vertical-center: true
