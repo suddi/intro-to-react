@@ -1,11 +1,7 @@
----
-
 Introduction
 
 +++
 
-![Suddi](assets/suddi.jpg)
+![Suddi](assets/img/suddi.jpg)
 
 Sudharshan Ravindran
-
----

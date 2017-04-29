@@ -2,7 +2,7 @@ theme: moon
 # background: assets/bg.jpg
 # background-size: cover
 
-logo: assets/logo.png
+logo: assets/img/logo.png
 
 highlight: monokai
 
@@ -14,7 +14,7 @@ slide-number: true
 
 vertical-center: true
 
-# theme-override: assets/css/PITCHME.css
+theme-override: assets/css/main.css
 
 transition: concave
 
