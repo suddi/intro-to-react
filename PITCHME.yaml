@@ -1,6 +1,21 @@
 theme: moon
-footnote: "© 2017 Sudharshan Ravindran"
-mousewheel: true
+# background: assets/bg.jpg
+# background-size: cover
+
+logo: assets/logo.png
+
+highlight: monokai
+
 slide-number: true
-transition: zoom
+
+# footnote: "© 2017 Sudharshan Ravindran"
+
+# mathjax: TeX-MML-AM_HTMLorMML-full
+
 vertical-center: true
+
+# theme-override: assets/css/PITCHME.css
+
+transition: concave
+
+mousewheel: true

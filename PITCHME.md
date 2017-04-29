@@ -1,4 +1,4 @@
----
-Introduction to React.js
----
-The End
+---?include=md/topics/cover/PITCHME.md
+---?include=md/topics/poll/PITCHME.md
+---?include=md/topics/introduction/PITCHME.md
+---?include=md/topics/current-state/PITCHME.md
