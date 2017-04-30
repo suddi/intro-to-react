@@ -6,21 +6,30 @@ There are numerous ways people use to make websites
 
 +++
 
-Other than HTML and CSS, they use:
+Other than HTML and CSS, we use:
 
-- Plain JavaScript <!-- .element: class="fragment" -->
-- Backbone <!-- .element: class="fragment" -->
-- Angular <!-- .element: class="fragment" -->
-- Ember <!-- .element: class="fragment" -->
-- React <!-- .element: class="fragment" -->
-- Vue <!-- .element: class="fragment" -->
+<div class="align-points">
+	<span class="fragment">
+		<i class="fa fa-tag"></i> Plain JavaScript
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-tag"></i> Backbone
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-tag"></i> Angular
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-tag"></i> Ember
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-tag"></i> React
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-tag"></i> Vue
+	</span><br/>
+</div>
 
-+++
-
-<img
-	class="center-image"
-	src="assets/img/frameworks-market-share.png"
-	alt="Frontend Frameworks Market Share"/>
++++?image=assets/img/comparing-frameworks.png
 
 +++
 
@@ -53,13 +62,31 @@ HTML, CSS and JavaScript
 		<i class="fa fa-check"></i> Know your code
 	</span><br/>
 </div>
+
 +++
 
 HTML, CSS and JavaScript
 
-Cons:
+<div class="align-points">
+	<span class="fragment">
+		<i class="fa fa-close"></i> Difficult to scale
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-close"></i> Difficult to maintain
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-check"></i> Difficult to organize code
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-check"></i> Slow to develop
+	</span><br/>
+	<span class="fragment">
+		<i class="fa fa-check"></i> More to test
+	</span><br/>
+</div>
 
-- Difficult to scale <!-- .element: class="fragment" -->
-- Difficult to maintain <!-- .element: class="fragment" -->
-- Slow to develop <!-- .element: class="fragment" -->
-- More to test <!-- .element: class="fragment" -->
++++
+
+Backbone
+
+````

@@ -3,6 +3,10 @@
 	text-align: left;
 }
 
+.center-image {
+	margin: auto auto;
+}
+
 .gp-logo div {
 	top: 2px;
 	left: 2px;
