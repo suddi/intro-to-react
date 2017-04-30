@@ -43,7 +43,7 @@ HTML, CSS and JavaScript
 +++
 
 HTML, CSS and JavaScript
-
+<br/>
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Easy to get started
@@ -59,7 +59,7 @@ HTML, CSS and JavaScript
 +++
 
 HTML, CSS and JavaScript
-
+<br/>
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Difficult to scale
@@ -81,7 +81,7 @@ HTML, CSS and JavaScript
 +++
 
 Backbone
-
+<br/>
 <iframe
 	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/p86twx8a/embedded/html,css,js,result/dark/"
@@ -92,7 +92,7 @@ Backbone
 +++
 
 Backbone
-
+<br/>
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Simple interface
@@ -108,7 +108,7 @@ Backbone
 +++
 
 Backbone
-
+<br/>
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Lots of boilerplate code necessary
@@ -130,7 +130,7 @@ Backbone
 +++
 
 Angular
-
+<br/>
 <iframe
 	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/m22zmcch/embedded/html,css,js,result/dark/"
@@ -141,7 +141,7 @@ Angular
 +++
 
 Angular
-
+<br/>
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Easy to test
@@ -160,7 +160,7 @@ Angular
 +++
 
 Angular
-
+<br/>
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Complexity of interface (Directives)
@@ -176,7 +176,7 @@ Angular
 +++
 
 React
-
+<br/>
 <iframe
 	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/2paq5ygb/embedded/html,css,js,result/dark/"
@@ -187,7 +187,7 @@ React
 +++
 
 React
-
+<br/>
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Easy to use components
@@ -212,7 +212,7 @@ React
 +++
 
 React
-
+<br/>
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Not a complete framework

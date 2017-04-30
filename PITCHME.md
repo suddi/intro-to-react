@@ -1,4 +1,5 @@
 ---?include=topics/cover/PITCHME.md
 ---?include=topics/poll/PITCHME.md
 ---?include=topics/introduction/PITCHME.md
----?include=topics/current-state/PITCHME.md
+---?include=topics/state-of-web-development-today/PITCHME.md
+---?include=topics/fundamentals-of-web-development/PITCHME.md

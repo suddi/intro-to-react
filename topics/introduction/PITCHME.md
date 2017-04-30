@@ -9,3 +9,9 @@ Introduction
 	<i class="fa fa-github"></i> [github.com/suddi](https://github.com/suddi)<br/>
 	<i class="fa fa-globe"></i> [suddi.io](https://suddi.io)<br/>
 </div>
+
++++
+
+Follow along at:
+
+[gitpitch.com/suddi/intro-to-react](https://gitpitch.com/suddi/intro-to-react/master)
