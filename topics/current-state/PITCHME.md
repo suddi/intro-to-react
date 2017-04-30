@@ -17,7 +17,10 @@ Other than HTML and CSS, they use:
 
 +++
 
-![Frontend Frameworks Market Share](assets/img/frameworks-market-share.png)
+<img
+	class="center-image"
+	src="assets/img/frameworks-market-share.png"
+	alt="Frontend Frameworks Market Share"/>
 
 +++
 
@@ -39,12 +42,17 @@ HTML, CSS and JavaScript
 
 HTML, CSS and JavaScript
 
-Pros:
-
-- Easy to get started <!-- .element: class="fragment" -->
-- Completely customizable <!-- .element: class="fragment" -->
-- Know your code <!-- .element: class="fragment" -->
-
+<div class="align-points">
+	<span class="fragment">
+		<i class="fa fa-check"></i> Easy to get started
+	</span>
+	<span class="fragment">
+		<i class="fa fa-check"></i> Completely customizable
+	</span>
+	<span
+		<i class="fa fa-check"></i> Know your code
+	</span>
+</div>
 +++
 
 HTML, CSS and JavaScript
