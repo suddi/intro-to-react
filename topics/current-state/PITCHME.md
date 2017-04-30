@@ -49,7 +49,7 @@ HTML, CSS and JavaScript
 	<span class="fragment">
 		<i class="fa fa-check"></i> Completely customizable
 	</span><br/>
-	<span>
+	<span class="fragment">
 		<i class="fa fa-check"></i> Know your code
 	</span><br/>
 </div>

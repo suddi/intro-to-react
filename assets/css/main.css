@@ -1,4 +1,4 @@
-.align-points div {
+.align-points {
 	display: inline-block;
 	text-align: left;
 }
@@ -14,7 +14,7 @@
 	box-shadow: none;
 }
 
-.subtitle span {
+.subtitle {
 	color: gray;
 	font-size: 0.6em;
 }
