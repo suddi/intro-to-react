@@ -36,8 +36,7 @@ Other than HTML and CSS, we use:
 HTML, CSS and JavaScript
 
 <iframe
-	width="100%"
-	height="70%"
+	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/xmj93Lzd/embedded/js,html,css,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">

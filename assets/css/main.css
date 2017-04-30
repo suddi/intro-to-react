@@ -12,6 +12,12 @@
 	left: 2px;
 }
 
+.jsfiddle {
+	max-height: 85%;
+	max-width: 100%;
+	width: 100%;
+}
+
 .reveal section img {
 	background: transparent;
 	border: 0;
