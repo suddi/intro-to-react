@@ -229,4 +229,4 @@ Resources
 - [Pros and cons of Angular.js vs. React.js](https://erminesoft.com/what-are-the-pros-and-cons-of-angularjs-vs-reactjs/)
 - [JavaScript framework comparison](https://www.airpair.com/js/javascript-framework-comparison)
 - [Which JavaScript MVC to use](https://erminesoft.com/what-are-the-pros-and-cons-of-angularjs-vs-reactjs/)
-
+- [Frontend framework comparison](http://stateofjs.com/2016/frontend/)
