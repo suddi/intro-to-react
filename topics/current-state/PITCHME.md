@@ -45,13 +45,13 @@ HTML, CSS and JavaScript
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Easy to get started
-	</span>
+	</span><br/>
 	<span class="fragment">
 		<i class="fa fa-check"></i> Completely customizable
-	</span>
-	<span
+	</span><br/>
+	<span>
 		<i class="fa fa-check"></i> Know your code
-	</span>
+	</span><br/>
 </div>
 +++
 
