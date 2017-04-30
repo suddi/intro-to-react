@@ -29,8 +29,6 @@ Other than HTML and CSS, we use:
 	</span><br/>
 </div>
 
-+++?image=assets/img/comparing-frameworks.png
-
 +++
 
 HTML, CSS and JavaScript
@@ -85,8 +83,7 @@ HTML, CSS and JavaScript
 Backbone
 
 <iframe
-	width="100%"
-	height="300"
+	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/p86twx8a/embedded/html,css,js,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">
@@ -112,8 +109,6 @@ Backbone
 
 Backbone
 
-HTML, CSS and JavaScript
-
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Lots of boilerplate code necessary
@@ -137,8 +132,7 @@ HTML, CSS and JavaScript
 Angular
 
 <iframe
-	width="100%"
-	height="300"
+	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/m22zmcch/embedded/html,css,js,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">
@@ -184,8 +178,7 @@ Angular
 React
 
 <iframe
-	width="100%"
-	height="300"
+	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/2paq5ygb/embedded/html,css,js,result/dark/"
 	allowfullscreen="allowfullscreen"
 	frameborder="0">
@@ -209,9 +202,6 @@ React
 		<i class="fa fa-check"></i> Ease of debugging
 	</span><br/>
 	<span class="fragment">
-		<i class="fa fa-check"></i> Easy to scale
-	</span><br/>
-	<span class="fragment">
 		<i class="fa fa-check"></i> Large community
 	</span><br/>
 	<span class="fragment">
@@ -228,3 +218,15 @@ React
 		<i class="fa fa-close"></i> Not a complete framework
 	</span><br/>
 </div>
+
++++?image=assets/img/comparing-frameworks.png
+
++++
+
+Resources
+
+- [Reasons to use React](https://blog.syncano.io/reactjs-reasons-why-part-1/)
+- [Pros and cons of Angular.js vs. React.js](https://erminesoft.com/what-are-the-pros-and-cons-of-angularjs-vs-reactjs/)
+- [JavaScript framework comparison](https://www.airpair.com/js/javascript-framework-comparison)
+- [Which JavaScript MVC to use](https://erminesoft.com/what-are-the-pros-and-cons-of-angularjs-vs-reactjs/)
+
