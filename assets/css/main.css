@@ -1,5 +1,5 @@
-.align-points p {
-	margin-left: 30%;
+.align-points span {
+	display: inline-block;
 	text-align: left;
 }
 
