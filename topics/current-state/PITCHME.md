@@ -35,17 +35,13 @@ Other than HTML and CSS, we use:
 
 HTML, CSS and JavaScript
 
-````html
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Hello World!</title>
-	</head>
-	<body>
-		<script>alert('Hello World!');</script>
-	</body>
-</html>
-````
+<iframe
+	width="100%"
+	height="70%"
+	src="https://jsfiddle.net/suddi/xmj93Lzd/embedded/js,html,css,result/dark/"
+	allowfullscreen="allowfullscreen"
+	frameborder="0">
+</iframe>
 
 +++
 
