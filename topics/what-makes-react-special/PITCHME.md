@@ -31,22 +31,22 @@ What React gives you
 
 React is only the view layer
 
-- React only defines how it renders on the browser
-- Other frameworks actually define how you handle data
+- React only defines how it renders on the browser |
+- Other frameworks actually define how you handle data |
 
 +++
 
 React uses a virtual DOM
 
-- React maintains it's own copy of the DOM
-- Only changes are sent to the browser to be updated
+- React maintains it's own copy of the DOM |
+- Only changes are sent to the browser to be updated |
 
 +++
 
 React focusses on separation of concerns rather than separation os technologies
 
-- HTML and JS are together
-- The 2 actually work together
+- HTML and JS are together |
+- They actually work together |
 
 +++
 
@@ -61,7 +61,7 @@ React focusses on separation of concerns rather than separation os technologies
 
 React gives you readable, maintainable code
 
-- Everything is componentized
+- Everything is componentized |
 
 +++
 
