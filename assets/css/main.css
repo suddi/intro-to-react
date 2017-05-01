@@ -7,6 +7,10 @@
 	margin: auto auto;
 }
 
+code.lang-html {
+	max-height: 700px;
+}
+
 .gp-logo div {
 	top: 2px;
 	left: 2px;

@@ -19,56 +19,67 @@ Fundamentals of web development
 		</script>
 	</head>
 	<body>
-		<button id="app" class="button" onclick="handleClick()">Click me</button>
+		<button
+			id="app"
+			class="button"
+			onclick="handleClick()">
+			Click me
+		</button>
 	</body>
 </html>
 ````
+
+[See the code](https://jsfiddle.net/suddi/xmj93Lzd/)
 
 +++
 
 Hypertext Markup Language (HTML)
 
-- Defines structure of a webpage
-- HTML elements are the building blocks
-
 ````html
 <html>
-	<head></head>
+	<head>
+		<style type="text/css"></style>
+		<script type="text/javascript"></script>
+	</head>
 	<body>
-		<button id="app" class="button" onclick="handleClick()">Click me</button>
+		<button
+			id="app"
+			class="button"
+			onclick="handleClick()">
+			Click me
+		</button>
 	</body>
 </html>
 ````
+
+- Defines structure of a webpage
+- HTML elements are the building blocks
 
 +++
 
 Cascading Style Sheets (CSS)
 
-- Defines the styles
-
 ````css
-<style text="text/css">
-	.button {
-		height: 100px;
-		text-align: center;
-		width: 100%;
-	}
-</style>
+.button {
+	height: 100px;
+	text-align: center;
+	width: 100%;
+}
 ````
+
+- Defines the styles
 
 +++
 
 JavaScript (JS)
 
-- Coordinates the interactions on a page
-
-````javascript
-<script type="text/javascript">
-	function handleClick() {
-		alert('Hello World!');
-	}
-</script>
+````js
+function handleClick() {
+	alert('Hello World!');
+}
 ````
+
+- Coordinates the interactions on a page
 
 +++
 
