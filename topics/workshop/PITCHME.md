@@ -33,6 +33,8 @@ npm init
 
 ````
 
++++
+
 You should have a file named `package.json`:
 
 ````json
