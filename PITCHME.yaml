@@ -18,4 +18,6 @@ theme-override: assets/css/main.css
 
 transition: concave
 
-mousewheel: true
+mousewheel: false
+
+gatoken: UA-83943642-2
