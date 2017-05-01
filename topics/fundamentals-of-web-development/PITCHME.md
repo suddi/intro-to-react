@@ -2,6 +2,85 @@ Fundamentals of web development
 
 +++
 
+````html
+<html>
+	<head>
+		<style text="text/css">
+			.button {
+				height: 100px;
+				text-align: center;
+				width: 100%;
+			}
+		</style>
+		<script type="text/javascript">
+			function handleClick() {
+				alert('Hello World!');
+			}
+		</script>
+	</head>
+	<body>
+		<button id="app" class="button" onclick="handleClick()">Click me</button>
+	</body>
+</html>
+````
+
++++
+
+Hypertext Markup Language (HTML)
+
+- Defines structure of a webpage
+- HTML elements are the building blocks
+
+````html
+<html>
+	<head></head>
+	<body>
+		<button id="app" class="button" onclick="handleClick()">Click me</button>
+	</body>
+</html>
+````
+
++++
+
+Cascading Style Sheets (CSS)
+
+- Defines the styles
+
+````css
+<style text="text/css">
+	.button {
+		height: 100px;
+		text-align: center;
+		width: 100%;
+	}
+</style>
+````
+
++++
+
+JavaScript (JS)
+
+- Coordinates the interactions on a page
+
+````javascript
+<script type="text/javascript">
+	function handleClick() {
+		alert('Hello World!');
+	}
+</script>
+````
+
++++
+
+Think in a play:
+
+- HTML is the script |
+- CSS is the costumes |
+- JS is the director |
+- Then who is the actor? |
+
++++
+
 Your browser
 
 <i class="fa fa-chrome"></i>
@@ -9,17 +88,6 @@ Your browser
 <i class="fa fa-edge"></i>
 <i class="fa fa-safari"></i>
 <i class="fa fa-opera"></i>
-
-+++
-
-````html
-<html>
-	<body>
-		<p style="height=50px">Hello World!</p>
-		<div><img src="example.png"/></div>
-	</body>
-</html>
-````
 
 +++
 
@@ -56,7 +124,7 @@ When a style is changed:
 </html>
 ````
 
-- Repainting (only the <p> tag) |
+- Repainting (only the `<p>` tag) |
 
 +++
 
@@ -78,25 +146,6 @@ When a the structure is changed:
 Your browser will try to optimize
 
 - Layout calculation, painting is expensive
-
-+++
-
-Hypertext Markup Language (HTML)
-
-- Defines structure of a webpage
-- HTML elements are the building blocks
-
-Cascading Style Sheets (CSS)
-
-- Defines the styles
-
-JavaScript (JS)
-
-- Coordinates the interactions on a page
-
-+++
-
-Think in a play:
 
 +++
 
