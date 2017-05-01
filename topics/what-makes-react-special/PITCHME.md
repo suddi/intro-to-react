@@ -21,7 +21,7 @@ What do you notice?
 
 Going back to our previous metaphor
 
--The director is controlling the script directly
+- The director is controlling the script directly
 
 +++
 
