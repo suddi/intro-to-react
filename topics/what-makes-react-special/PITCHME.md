@@ -1,4 +1,4 @@
-What makes React special?
+# What makes React special?
 
 +++
 

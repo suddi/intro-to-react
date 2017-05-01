@@ -1,4 +1,4 @@
-Fundamentals of web development
+# Fundamentals of web development
 
 +++
 
@@ -89,7 +89,8 @@ Think in a play:
 +++
 
 Your browser
-<br/>
+
+
 <i class="fa fa-chrome"></i>
 <i class="fa fa-firefox"></i>
 <i class="fa fa-edge"></i>

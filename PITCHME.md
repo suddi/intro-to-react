@@ -4,3 +4,9 @@
 ---?include=topics/fundamentals-of-web-development/PITCHME.md
 ---?include=topics/state-of-web-development-today/PITCHME.md
 ---?include=topics/what-makes-react-special/PITCHME.md
+
+---
+
+<i class="fa fa-question-circle"></i>
+
+---?include=topics/workshop/PITCHME.md
