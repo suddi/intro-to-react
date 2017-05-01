@@ -20,9 +20,7 @@ Fundamentals of web development
 	</head>
 	<body>
 		<button
-			id="app"
-			class="button"
-			onclick="handleClick()">
+			id="app" class="button" onclick="handleClick()">
 			Click me
 		</button>
 	</body>
