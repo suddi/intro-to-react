@@ -31,7 +31,7 @@
 
 +++
 
-Hypertext Markup Language (HTML)
+### Hypertext Markup Language (HTML)
 
 ````html
 <html>
@@ -47,13 +47,13 @@ Hypertext Markup Language (HTML)
 	</body>
 </html>
 ````
-<br/>
+
 - Defines structure of a webpage
 - HTML elements are the building blocks
 
 +++
 
-Cascading Style Sheets (CSS)
+### Cascading Style Sheets (CSS)
 
 ````css
 .button {
@@ -62,24 +62,24 @@ Cascading Style Sheets (CSS)
 	width: 100%;
 }
 ````
-<br/>
+
 - Defines the styles
 
 +++
 
-JavaScript (JS)
+### JavaScript (JS)
 
 ````js
 function handleClick() {
 	alert('Hello World!');
 }
 ````
-<br/>
+
 - Coordinates the interactions on a page
 
 +++
 
-Think in a play:
+### Consider a play
 
 - HTML is the script |
 - CSS is the costumes |
@@ -88,8 +88,7 @@ Think in a play:
 
 +++
 
-Your browser
-
+### Your browser
 
 <i class="fa fa-chrome"></i>
 <i class="fa fa-firefox"></i>
@@ -99,7 +98,7 @@ Your browser
 
 +++
 
-How does you browser render?
+### How does you browser render?
 
 +++
 
@@ -161,7 +160,7 @@ Your browser will try to optimize
 
 +++
 
-Resources
+### Resources
 
 - [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [Web page rendering 101](http://frontendbabel.info/articles/webpage-rendering-101/)

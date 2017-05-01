@@ -31,7 +31,7 @@ Other than HTML and CSS, we use:
 
 +++
 
-HTML, CSS and JavaScript
+### HTML, CSS and JavaScript
 
 <iframe
 	class="jsfiddle"
@@ -42,8 +42,8 @@ HTML, CSS and JavaScript
 
 +++
 
-HTML, CSS and JavaScript
-<br/>
+### HTML, CSS and JavaScript
+
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Easy to get started
@@ -58,8 +58,8 @@ HTML, CSS and JavaScript
 
 +++
 
-HTML, CSS and JavaScript
-<br/>
+### HTML, CSS and JavaScript
+
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Difficult to scale
@@ -80,8 +80,8 @@ HTML, CSS and JavaScript
 
 +++
 
-Backbone
-<br/>
+### Backbone
+
 <iframe
 	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/p86twx8a/embedded/html,css,js,result/dark/"
@@ -91,8 +91,8 @@ Backbone
 
 +++
 
-Backbone
-<br/>
+### Backbone
+
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Simple interface
@@ -107,8 +107,8 @@ Backbone
 
 +++
 
-Backbone
-<br/>
+### Backbone
+
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Lots of boilerplate code necessary
@@ -129,8 +129,8 @@ Backbone
 
 +++
 
-Angular
-<br/>
+### Angular
+
 <iframe
 	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/m22zmcch/embedded/html,css,js,result/dark/"
@@ -140,8 +140,8 @@ Angular
 
 +++
 
-Angular
-<br/>
+### Angular
+
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Easy to test
@@ -159,8 +159,8 @@ Angular
 
 +++
 
-Angular
-<br/>
+### Angular
+
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Complexity of interface (Directives)
@@ -175,8 +175,8 @@ Angular
 
 +++
 
-React
-<br/>
+### React
+
 <iframe
 	class="jsfiddle"
 	src="https://jsfiddle.net/suddi/2paq5ygb/embedded/html,css,js,result/dark/"
@@ -186,8 +186,8 @@ React
 
 +++
 
-React
-<br/>
+### React
+
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-check"></i> Easy to use components
@@ -211,8 +211,8 @@ React
 
 +++
 
-React
-<br/>
+### React
+
 <div class="align-points">
 	<span class="fragment">
 		<i class="fa fa-close"></i> Not a complete framework
@@ -223,7 +223,7 @@ React
 
 +++
 
-Resources
+### Resources
 
 - [Reasons to use React](https://blog.syncano.io/reactjs-reasons-why-part-1/)
 - [Pros and cons of Angular.js vs. React.js](https://erminesoft.com/what-are-the-pros-and-cons-of-angularjs-vs-reactjs/)
