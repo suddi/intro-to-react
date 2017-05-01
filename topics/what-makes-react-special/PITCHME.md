@@ -13,14 +13,14 @@ What makes React special?
 +++
 
 What do you notice?
-<br/>
+
 - We are creating our own HTML-type elements |
 - The HTML is within the JavaScript |
 
 +++
 
 Going back to our previous metaphor
-<br/>
+
 -The director is controlling the script directly
 
 +++
@@ -30,21 +30,21 @@ What React gives you
 +++
 
 React is only the view layer
-<br/>
+
 - React only defines how it renders on the browser
 - Other frameworks actually define how you handle data
 
 +++
 
 React uses a virtual DOM
-<br/>
+
 - React maintains it's own copy of the DOM
 - Only changes are sent to the browser to be updated
 
 +++
 
 React focusses on separation of concerns rather than separation os technologies
-<br/>
+
 - HTML and JS are together
 - The 2 actually work together
 
@@ -60,7 +60,7 @@ React focusses on separation of concerns rather than separation os technologies
 +++
 
 React gives you readable, maintainable code
-<br/>
+
 - Everything is componentized
 
 +++
