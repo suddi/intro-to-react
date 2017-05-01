@@ -2,6 +2,10 @@
 
 +++
 
+In 7 steps, we're going to go from nothing to our 1st React app
+
++++
+
 Signup at [codenvy.io](https://codenvy.io/site/login)
 
 It's free
@@ -21,7 +25,7 @@ It's free
 ````sh
 npm init
 
-# name: (intro-to-react)
+# name: My First React App
 # version: (1.0.0)
 # description:
 # entry point: (index.js) app/index.js
@@ -39,7 +43,7 @@ You should have a file named `package.json`:
 
 ````json
 {
-	"name": "intro-to-react",
+	"name": "My First React App",
 	"version": "1.0.0",
 	"description": "",
 	"main": "app/index.js",
@@ -71,7 +75,7 @@ Your `package.json` file should now look like this:
 
 ````json
 {
-	"name": "intro-to-react",
+	"name": "My First React App",
 	"version": "1.0.0",
 	"description": "",
 	"main": "app/index.js",
@@ -199,3 +203,7 @@ Let's run it!
 ````sh
 npm run build
 ````
+
++++
+
+Your site is ready...
