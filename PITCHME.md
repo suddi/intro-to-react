@@ -6,3 +6,4 @@
 ---?include=topics/what-makes-react-special/PITCHME.md
 ---?include=topics/questions/PITCHME.md
 ---?include=topics/workshop/PITCHME.md
+---?include=topics/course/PITCHME.md
