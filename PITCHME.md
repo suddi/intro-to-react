@@ -3,3 +3,4 @@
 ---?include=topics/introduction/PITCHME.md
 ---?include=topics/fundamentals-of-web-development/PITCHME.md
 ---?include=topics/state-of-web-development-today/PITCHME.md
+---?include=topics/what-makes-react-special/PITCHME.md

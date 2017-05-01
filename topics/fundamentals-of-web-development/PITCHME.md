@@ -41,15 +41,13 @@ Hypertext Markup Language (HTML)
 	</head>
 	<body>
 		<button
-			id="app"
-			class="button"
-			onclick="handleClick()">
+			id="app" class="button" onclick="handleClick()">
 			Click me
 		</button>
 	</body>
 </html>
 ````
-
+<br/>
 - Defines structure of a webpage
 - HTML elements are the building blocks
 
@@ -64,7 +62,7 @@ Cascading Style Sheets (CSS)
 	width: 100%;
 }
 ````
-
+<br/>
 - Defines the styles
 
 +++
@@ -76,7 +74,7 @@ function handleClick() {
 	alert('Hello World!');
 }
 ````
-
+<br/>
 - Coordinates the interactions on a page
 
 +++
@@ -91,12 +89,16 @@ Think in a play:
 +++
 
 Your browser
-
+<br/>
 <i class="fa fa-chrome"></i>
 <i class="fa fa-firefox"></i>
 <i class="fa fa-edge"></i>
 <i class="fa fa-safari"></i>
 <i class="fa fa-opera"></i>
+
++++
+
+How does you browser render?
 
 +++
 
@@ -132,8 +134,8 @@ When a style is changed:
 	</body>
 </html>
 ````
-
-- Repainting (only the `<p>` tag) |
+<br/>
+- Repainting only the element |
 
 +++
 
@@ -147,13 +149,13 @@ When a the structure is changed:
 	</body>
 </html>
 ````
-
+<br/>
 - Reflow (layout calculation + repainting) |
 
 +++
 
 Your browser will try to optimize
-
+<br/>
 - Layout calculation, painting is expensive
 
 +++
