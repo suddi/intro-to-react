@@ -79,5 +79,5 @@ function (config) {
 - Deployed and viewable online
 - Fundamental understanding of React
 
-+++?include=topics/questions/PITCHME.md
-+++?include=topics/end/PITCHME.md
++++?include=../questions/PITCHME.md
++++?include=../end/PITCHME.md
