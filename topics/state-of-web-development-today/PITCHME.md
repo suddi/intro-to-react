@@ -147,9 +147,6 @@ Other than HTML and CSS, we use:
 		<i class="fa fa-check"></i> Easy to test
 	</span><br/>
 	<span class="fragment">
-		<i class="fa fa-check"></i> Good feature support on browsers and mobile
-	</span><br/>
-	<span class="fragment">
 		<i class="fa fa-check"></i> Large community
 	</span><br/>
 	<span class="fragment">

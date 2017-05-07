@@ -98,7 +98,7 @@ function handleClick() {
 
 +++
 
-### How does you browser render?
+### How does your browser render?
 
 +++
 

@@ -38,7 +38,7 @@ Going back to our previous metaphor
 
 ### React uses a virtual DOM
 
-- React maintains it's own copy of the DOM |
+- React maintains its own copy of the DOM |
 - Only changes are sent to the browser to be updated |
 
 +++
@@ -47,15 +47,6 @@ Going back to our previous metaphor
 
 - HTML and JS are together |
 - They actually work together |
-
-+++
-
-<iframe
-	class="jsfiddle"
-	src="https://jsfiddle.net/suddi/xmj93Lzd/embedded/html,css,js,result/dark/"
-	allowfullscreen="allowfullscreen"
-	frameborder="0">
-</iframe>
 
 +++
 
