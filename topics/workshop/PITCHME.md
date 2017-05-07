@@ -60,7 +60,7 @@ You should have a file named `package.json`:
 ### Step 2
 
 ````sh
-npm install --save-dev react@^15.5.4 react-dom@15.5.4 webpack@2.4.1 babel-core@6.24.1 babel-loader@6.4.1 babel-preset-react@6.24.1
+npm install --save-dev react@15.5.4 react-dom@15.5.4 webpack@2.4.1 babel-core@6.24.1 babel-loader@6.4.1 babel-preset-react@6.24.1
 ````
 
 +++
@@ -176,7 +176,7 @@ module.exports = {
         rules: [
             {
                 test: /\.js$/,
-                include: __dirname + './app',
+                include: __dirname + '/app',
                 loaders: ['babel-loader']
             }
         ]
