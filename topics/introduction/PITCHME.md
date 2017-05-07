@@ -15,3 +15,12 @@
 Follow along at:
 
 [gitpitch.com/suddi/intro-to-react](https://gitpitch.com/suddi/intro-to-react/master)
+
++++
+
+Agenda
+
+- Fundamentals of Web Development |
+- State of Web Development Today |
+- What makes React Special? |
+- Your first React App |
