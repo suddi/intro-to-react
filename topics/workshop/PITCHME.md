@@ -146,7 +146,16 @@ const ClickMe = React.createClass({
         );
     }
 });
+...
+````
 
++++
+
+### Step 4
+
+Additional content in `app/index.js`:
+
+````js
 ReactDOM.render(
     <ClickMe/>,
     document.getElementById('app')
