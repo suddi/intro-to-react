@@ -188,6 +188,20 @@ module.exports = {
 
 ### Step 6
 
+Allow `babel` to parse the React JSX, create a file `.babelrc`
+
+````
+{
+	"presets": [
+		"react"
+	]
+}
+````
+
++++
+
+### Step 7
+
 Add a line in `package.json` to allow NPM to build our React project:
 
 ````js
@@ -199,7 +213,7 @@ Add a line in `package.json` to allow NPM to build our React project:
 
 +++
 
-### Step 7
+### We're done
 
 Let's run it!
 
