@@ -173,7 +173,7 @@ module.exports = {
         rules: [
             {
                 test: /\.js$/,
-                include: './app',
+                include: __dirname + './app',
                 loaders: ['babel-loader']
             }
         ]
