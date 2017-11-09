@@ -5,3 +5,6 @@
 [![license](https://img.shields.io/github/license/suddi/intro-to-react.svg)](https://raw.githubusercontent.com/suddi/intro-to-react/master/LICENSE)
 
 An introductory course to React.js
+
+Featured as a sample GitPitch project on:
+- [Develop Course and Training Materials using Fruit Punnets](https://hackernoon.com/develop-course-and-training-materials-using-fruit-punnets-cf9cfa88040f)
